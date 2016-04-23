@@ -1,0 +1,10 @@
+title: xWebmaster
+description: > # this means to ignore newlines until "baseurl:"
+  We Provide Free High Quality Adult Webmaster Guidelines to start adult websites, tips to increase traffic and monetization techniquie.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.xwebmaster.org" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+include: ['_pages']

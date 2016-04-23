@@ -1,1 +1,12 @@
-Hellow World
+---
+layout: default
+---
+<br/>
+{% for post in site.posts %}
+  <div class="blog-post">
+    <a class="blog-post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <p>
+      {{ post.excerpt | truncate: 200}}
+    </p><hr/>
+  </div>
+{% endfor %}
