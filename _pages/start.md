@@ -28,14 +28,7 @@ Hope you already bought your hosting and domain, now we need to install website 
 
 I just loved WordPress, just because it is too easy to use, and do you know guys, WordPress cover 25% markets in internet web i.e. out of 100 websites, 25% website are build under WordPress. Wordpress is contribute by worlds best PHP developer and still they are growing. It is world no.1 popular CMS (content management system) and that's why almost all hosting company provide one click installation facilities. I have also created one post for that, How to install WordPress in your host?, hope you will like it.
 
-So to setup website you need to do four things.
-
-1. Buy Adult Hosting.
-2. Buy Domain name.
-3. Setup WordPress Blog.
-4. Add Content to your wordpress blog.
-
-Avoid Auto Blogging In Adult Industry.
+Once you install wordpress, start adding great content, and please avoid auto blogging and auto tube scripts.
 
 ## Website Traffic: ##
 
