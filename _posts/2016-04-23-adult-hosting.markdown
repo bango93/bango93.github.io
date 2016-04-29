@@ -32,8 +32,8 @@ Howdy xWebmasters, we all know, before we start creating any website we need two
       </tr>
 		<tr>
         <td>3</td>
-        <td><a href="https://sitevalley.com/clients/aff.php?aff=403" rel="nofollow" target="_blank">Sitevalley</a></td>
-        <td>May be you believe in OLD is GOLD.  Sitevalley website started their business in 2002 and many of webmaster still using their service. I have also read good review about that. So feel free to go with them, they have also dedicated page to sell <a href="https://sitevalley.com/landing/adult-hosting/" rel="nofollow" target="_blank">adult hosting</a>.</td>
+        <td><a href="https://sitevalley.com/clients/aff.php?aff=403&adult" rel="nofollow" target="_blank">Sitevalley</a></td>
+        <td>May be you believe in OLD is GOLD.  Sitevalley website started their business in 2002 and many of webmaster still using their service. I have also read good review about that. So feel free to go with them, they have also dedicated page to sell <a href="https://sitevalley.com/clients/aff.php?aff=403&adult" rel="nofollow" target="_blank">adult hosting</a>.</td>
         <td>20% discount- <b>ADULTSONLY</b></td>
       </tr>	
 	</tr>
